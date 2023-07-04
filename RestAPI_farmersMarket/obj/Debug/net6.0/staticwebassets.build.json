@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZffAiq2WPUaJTgILl0Ddi4zjEgorw0XWDPtkPV0Vlrw=",
+  "Source": "RestAPI_farmersMarket",
+  "BasePath": "_content/RestAPI_farmersMarket",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
